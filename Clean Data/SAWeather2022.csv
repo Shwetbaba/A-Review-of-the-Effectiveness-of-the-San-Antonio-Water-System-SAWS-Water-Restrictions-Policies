@@ -1,4 +1,4 @@
-Month,Day,Year,Temp Max,Temp Avg,Temp Min,Humidity Max,Humidity Avg,Humdity Min,Precipitation Total
+Month,Day,Year,Temp Max,Temp Avg,Temp Min,Humidity Max,Humidity Avg,Humdity Min,Precipitation
 Jan,1,2022,78,68.6,38,93,73.4,45,0
 Jan,2,2022,47,34.4,25,84,51.8,31,0.01
 Jan,3,2022,56,36.6,22,88,58.7,21,0
