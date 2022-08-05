@@ -10,6 +10,8 @@
      Insert findings here
 ## MetaData
 * [Weather Historical Data](https://www.wunderground.com)
+
+
 |Column Name           | Description                                                                                                                 | Data Type     |
 |----------------------|:----------------------------------------------------------------------------------------------------------------------------|--------------:|
 |Year                  | Year                                                                                                                        | YYYY Format   |
