@@ -1,4 +1,4 @@
-﻿Month,Day,Year,Temp Max,Temp Avg,Temp Min,Humidity Max,Humidity Avg,Humidity Min,Precipitation Total
+﻿Month,Day,Year,Temp Max,Temp Avg,Temp Min,Humidity Max,Humidity Avg,Humidity Min,Precipitation
 Jan,1,2016,49,46.3,44,73,61.5,51,0
 Jan,2,2016,48,45,43,93,67.2,48,0
 Jan,3,2016,61,47.7,35,96,75.6,49,0.22
