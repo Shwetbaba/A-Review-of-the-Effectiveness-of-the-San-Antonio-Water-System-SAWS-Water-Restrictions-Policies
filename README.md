@@ -1,13 +1,13 @@
 # A Review of the Effectiveness of the San Antonio Water System (SAWS) Water Restrictions Policies
 ## Overview
-     The topic was chosen as a starter project for the contributors to apply the skills they have attained in their Data Analytics Bootcamp. This is the first group project of the bootcamp, and as such- the scope will be very limited. Many contributors are new to either data analytics or math, or both. The limitation of the scope enables the contributors to apply the knowledge learned without the additional anxiety of needing to apply things they have not yet learned. 
-     The group of contributors are located within the San Antonio area, and-like many in the area-find the city seems to be under water restrictions daily. With this in mind, they decided to investigate the determining factors driving these restrictions. Were the water restrictions helping to replenish the well, keep it at a steady level, or was the water level decreasing regardless of these restrictions.
+The topic was chosen as a starter project for the contributors to apply the skills they have attained in their Data Analytics Bootcamp. This is the first group project of the bootcamp, and as such- the scope will be very limited. Many contributors are new to either data analytics or math, or both. The limitation of the scope enables the contributors to apply the knowledge learned without the additional anxiety of needing to apply things they have not yet learned. 
+The group of contributors are located within the San Antonio area, and-like many in the area-find the city seems to be under water restrictions daily. With this in mind, they decided to investigate the determining factors driving these restrictions. Were the water restrictions helping to replenish the well, keep it at a steady level, or was the water level decreasing regardless of these restrictions.
 ## Variable Determination
-     Drought information- when in D1 or higher, does the J17WL well water level increase, decrease or remain constant -to determine if water restrictions are effective
-     Quantitative effect of temperature on the water levels--> this is to say perhaps SAWS could implement something more strict to prevent water level dropping during high temps?
-     Quantitative effect of humidity on the water levels and drought levels-->this is for fun to see if there are +/- correlations between drought or water levels and humidity -->maybe extrapolate a finding that when humidity is high and we are in drought- that water restrictions are not as necessary as when humidity is low?
+Drought information- when in D1 or higher, does the J17WL well water level increase, decrease or remain constant -to determine if water restrictions are effective
+Quantitative effect of temperature on the water levels--> this is to say perhaps SAWS could implement something more strict to prevent water level dropping during high temps?
+Quantitative effect of humidity on the water levels and drought levels-->this is for fun to see if there are +/- correlations between drought or water levels and humidity -->maybe extrapolate a finding that when humidity is high and we are in drought- that water restrictions are not as necessary as when humidity is low?
 ## Findings
-     Insert findings here
+Insert findings here
 ## MetaData
 * [Weather Historical Data](https://www.wunderground.com)
 
