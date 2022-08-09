@@ -1,4 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+﻿Drought Stage,10 day rolling criteria Criteria water level in mean ft,Restriction
+1,660,sprinklers 1x a week before 11am or after 7pm
+2,650,sprinklers 1x a week between 7am-11am or after 7pm
+3,640,sprinklers every other week from 7a-11a or after 7pm
+4,640*,discretion of city manager
+*when in stage 3 for 30days,,
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> WeatherProjectTest
+>>>>>>> main
 ﻿Drought Stage,10 day rolling criteria Criteria water level in mean ft,Restriction
 1,660,sprinklers 1x a week before 11am or after 7pm
 2,650,sprinklers 1x a week between 7am-11am or after 7pm
@@ -12,4 +26,11 @@
 3,640,sprinklers every other week from 7a-11a or after 7pm
 4,640*,discretion of city manager
 *when in stage 3 for 30days,,
+>>>>>>> main
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> WeatherProjectTest
+=======
+>>>>>>> WeatherProjectTest
 >>>>>>> main
